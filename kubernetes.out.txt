@@ -1,0 +1,7 @@
+NAME                          READY   STATUS    RESTARTS   AGE
+serviceapi                    1/1     Running   0          46s
+serviceapi-5f9579d7d4-nn6qc   1/1     Running   0          55m
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+
