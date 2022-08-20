@@ -1,5 +1,4 @@
-[![JaminOkoli](https://circleci.com/gh/JaminOkoli/
-Operationalize-ml-microservice-apii.svg?style=svg)](https://app.circleci.com/pipelines/github/JaminOkoli/Operationalize-ml-microservice-apii)
+[![JaminOkoli](https://circleci.com/gh/JaminOkoli/Operationalize-ml-microservice-apii.svg?style=svg)](https://app.circleci.com/pipelines/github/JaminOkoli/Operationalize-ml-microservice-apii)
 
 ## Project Overview
 
